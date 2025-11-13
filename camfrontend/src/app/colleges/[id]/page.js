@@ -81,6 +81,8 @@ export default function CollegeDetails() {
         <TabPanel><Overview /></TabPanel>
         <TabPanel><AdmissionTab /></TabPanel>
         <TabPanel><Events /></TabPanel>
+
+
         <TabPanel><ResearchTab /></TabPanel>
         <TabPanel><SportsTab /></TabPanel>
       </Tabs>
